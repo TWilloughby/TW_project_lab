@@ -1,2 +1,3 @@
 Are we supposed to add nursery rhymes to these files?
 I can't think of a single one that I can do in one line.
+This is step 3 from the lab excercise on page 34 of the class workbook.
