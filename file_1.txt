@@ -1,3 +1,4 @@
+As programmers we should start each indexed collection with zero.
 This is the first line.
 The second line is a little longer.
 The longest, by far is this, the third line.
